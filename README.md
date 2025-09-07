@@ -54,7 +54,7 @@ License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-git clone https://github.com/your-username/SpamSMSDetection.git
+git clone https://github.com/Ananyapselvam/SpamSMSDetection.git
 cd SpamSMSDetection
 
 Create a virtual environment (recommended):
